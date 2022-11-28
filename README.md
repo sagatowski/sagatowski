@@ -1,6 +1,6 @@
 # 🌌🔭 Jakob Sagatowski
 
-**`Software Guy (Developer/YouTuber/Writer`**)
+**`Software Guy (Developer/YouTuber/Writer`**
 
 I'm a freelancing automation/software engineer writing software for various industries. I'm spending a big chunk of my time [sharing the passion](https://youtube.com/JakobSagatowski) of software development, whilst [trying to make a living](https://www.sagatowski.com) at the same time. I'm primarily working with PLC software development, and especially Beckhoff's TwinCAT 3.
 
