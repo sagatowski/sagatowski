@@ -6,9 +6,9 @@ I'm a freelancing automation/software engineer writing software for various indu
 
 Here are some of the things I've created:  
 - 🖥 [The world's most popular PLC programming-course](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO)  
+- 💾 [The world's most popular PLC unit testing framework](https://www.github.com/tcunit)  
 - 📺 [A YouTube channel](https://youtube.com/JakobSagatowski)  
 - 📰 [A PLC programming blog](https://www.alltwincat.com)  
-- 💾 [An open-source PLC unit testing framework](https://www.github.com/tcunit)  
 - 🤓 [A company](https://www.sagatowski.com)  
 - 🌌 [An astronomy website](https://www.nineplanets.se)  
 
