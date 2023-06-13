@@ -28,12 +28,12 @@ Here are some of the things I've created:
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Open letter to Hans Beckhoff](https://ytcards.demolab.com/?id=pJoad5uxSSg&title=Open+letter+to+Hans+Beckhoff&lang=en&timestamp=1686548262&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=261 "Open letter to Hans Beckhoff")](https://www.youtube.com/watch?v=pJoad5uxSSg)
 [![Programming the Arduino OPTA](https://ytcards.demolab.com/?id=jSVzVAaLURM&title=Programming+the+Arduino+OPTA&lang=en&timestamp=1680496916&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1653 "Programming the Arduino OPTA")](https://www.youtube.com/watch?v=jSVzVAaLURM)
 [![Stop using global variables!](https://ytcards.demolab.com/?id=KrWXWI1o2PE&title=Stop+using+global+variables%21&lang=en&timestamp=1678860156&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=500 "Stop using global variables!")](https://www.youtube.com/watch?v=KrWXWI1o2PE)
 [![Open source in industrial automation](https://ytcards.demolab.com/?id=2DQNjAT5pV0&title=Open+source+in+industrial+automation&lang=en&timestamp=1677045239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=738 "Open source in industrial automation")](https://www.youtube.com/watch?v=2DQNjAT5pV0)
 [![Arduino OPTA PLC](https://ytcards.demolab.com/?id=DkoEHkLDCMg&title=Arduino+OPTA+PLC&lang=en&timestamp=1675662962&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=333 "Arduino OPTA PLC")](https://www.youtube.com/watch?v=DkoEHkLDCMg)
 [![15000 subscribers & F.A.Q.](https://ytcards.demolab.com/?id=lKu_aK78mL8&title=15000+subscribers+%26+F.A.Q.&lang=en&timestamp=1675008034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=286 "15000 subscribers & F.A.Q.")](https://www.youtube.com/watch?v=lKu_aK78mL8)
-[![ChatGPT and PLC programming](https://ytcards.demolab.com/?id=c_-1d3aV3Dk&title=ChatGPT+and+PLC+programming&lang=en&timestamp=1674191622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1937 "ChatGPT and PLC programming")](https://www.youtube.com/watch?v=c_-1d3aV3Dk)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/JakobSagatowski?sub_confirmation=1)
